@@ -8,6 +8,8 @@ public class Class1 {
 	public void display1()
 	{
 		System.out.println("This is first program-Method1");
+		System.out.println("Hi, i have made the changes");
+		
 	}
 	public void display2()
 	{
